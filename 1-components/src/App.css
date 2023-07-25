@@ -1,0 +1,7 @@
+.Card {
+	display: flex;
+	padding: 1rem;
+	background-color: aliceblue;
+	color: black;
+	border-radius: 1rem;
+}
